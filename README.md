@@ -20,7 +20,7 @@ Do not treat this as a third official BFL dialect. It is a production procedure 
 Agent Skills layout. Load `SKILL.md` first.
 
 ```bash
-npx skills add <your-github-user>/flux-attention-disclosure
+npx skills add Tricksterpaws/flux-attention-disclosure
 ```
 
 Or copy the folder into an agent skills directory:
