@@ -83,3 +83,20 @@ The ring was forgotten in the finish, so the liner walked back.
 > Worm's-eye. His human cock is already the first thing in frame, natural foreskin, dark pubic hair, the black harness strap cutting the crease of his hip — then the tile takes the rest of the shot, wet and close. Adult.
 
 After that first mention, later beats may say `his cock`.
+
+---
+
+## Window landing + wardrobe inventory + species-prior noun steal (solo)
+
+**FAIL** — `slot-bucket`, `inventory`, `species-prior`
+
+> Looking in the window from outside a small coffee shop stands, An adult male human, lean athletic build, … three-piece suit [full wardrobe list] … With one hand holding his smartphone and the other extending an arm to take his coffee off the counter
+
+**Why it fails:**
+- First clause is the street / window, not the body the lens reads through the glass (`slot-bucket`)
+- Finish is the outfit bible + ear/tail/muzzle list (`inventory`). Wear is two or three garments as state, never the full kit
+- Source noun is `adult male human` + props. Liner must not replace that noun with kemonomimi (`species-prior`)
+
+**HOLD**
+
+> Through the small coffee-shop window. A lean athletic adult male is already at the counter, short spiky vibrant blue hair, piercing blue eyes, rectangular glasses, left ear interior yellow and the right interior blue, large blue tail with a white tip, blue fake-dog muzzle mask strapped over his human mouth, charcoal-grey jacket worn open over a pale blue shirt, dotted dark blue tie, phone already in one hand — then his other arm takes the coffee off the counter. Warm tungsten inside against cool street glass, film grain. Adult.
